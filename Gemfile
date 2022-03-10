@@ -3,3 +3,5 @@
 source "https://rubygems.org"
 
 # gem "rails"
+gem 'sorbet', :group => :development
+gem 'sorbet-runtime'
